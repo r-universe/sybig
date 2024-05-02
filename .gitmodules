@@ -5,6 +5,3 @@
 [submodule "RPPanalyzer"]
 	path = RPPanalyzer
 	url = https://github.com/cran/RPPanalyzer
-[submodule "pwOmics"]
-	path = pwOmics
-	url = https://git.bioconductor.org/packages/pwOmics
